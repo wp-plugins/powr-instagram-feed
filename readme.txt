@@ -33,8 +33,8 @@ First, download, install, and activate POWr Instagram Feed. Then drop the widget
 <br>
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Up to 5 Accounts - add and display up to 5 different Instagram accounts.
-* Faster Updates - faster update times keep your content fresh.
+* Add and display up to 5 different Instagram accounts.
+* Faster update times keep your content fresh.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
