@@ -2,7 +2,7 @@
 ===POWr Instagram Feed===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline, instagram feed, instagram gallery, instagram share, social media feed, Facebook share, Facebook gallery, Facebook feed, Tumblr share, Tumblr gallery, Tumblr feed, Tumblr embed, instagram api, Facebook api, Tumblr api, facebook, instagram, tumblr, pinterest, pinterest gallery,
+Tags: Facebook, Instagram, Pinterest, YouTube, Twitter, Vine, Tumblr, Flickr, RSS, Vimeo, Dailymotion, free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline, instagram feed, instagram gallery, instagram share, social media feed, Facebook share, Facebook gallery, Facebook feed, Tumblr share, Tumblr gallery, Tumblr feed, Tumblr embed, instagram api, Facebook api, Tumblr api, facebook, instagram, tumblr, pinterest, pinterest gallery,
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
